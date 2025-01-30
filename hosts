@@ -51,9 +51,8 @@ ff02::3 ip6-allhosts
 
 0.0.0.0 xnxx.com
 0.0.0.0 poki.com
-regex:(^.+\.)?xnxx\.com$
-regex:(^.+\.)?poki\.com$
-
+0.0.0.0 ||xnxx.com^
+0.0.0.0 ||poki.com^
 # End
 
 # blacklist
