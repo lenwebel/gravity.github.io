@@ -49,11 +49,16 @@ ff02::3 ip6-allhosts
 
 # <http://lenwebel.com>
 
-0.0.0.0 poki.com
+0.0.0.0 ||poki.com
+0.0.0.0 ||googlevideo.com
 0.0.0.0 googlevideo.com
+0.0.0.0 ||googlevideo.com.au
 0.0.0.0 googlevideo.com.au
+0.0.0.0 ||youtube.com.au
 0.0.0.0 youtube.com.au
+0.0.0.0 ||youtube.com
 0.0.0.0 youtube.com
+0.0.0.0 ||tiktok.com
 0.0.0.0 tiktok.com
 
 # End
